@@ -1,0 +1,13 @@
+Info: Processing symbol '1uF1:'.
+Info: Processing symbol '10uF1:'.
+Info: Processing symbol '10uF2:'.
+Info: Processing symbol 'R1:'.
+Info: Processing symbol 'U1:'.
+Error: Cannot add 1uF1 (no footprint assigned).
+Error: Cannot add 10uF1 (no footprint assigned).
+Error: Cannot add 10uF2 (no footprint assigned).
+Error: Cannot add R1 (no footprint assigned).
+Error: Cannot add U1 (no footprint assigned).
+
+
+Info: Total warnings: 0, errors: 5.
